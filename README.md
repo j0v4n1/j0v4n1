@@ -1,6 +1,6 @@
 # 🚀 Ivan Klimovskiy  
 
-![image](https://github.com/user-attachments/assets/c6115ee5-c4e2-4fb1-8c7a-4cf0baa78578)
+![Баннер](https://github.com/user-attachments/assets/c6115ee5-c4e2-4fb1-8c7a-4cf0baa78578)
 
 
 ## 👨‍💻 About Me
