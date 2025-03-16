@@ -1,8 +1,5 @@
 # 🚀 Ivan Klimovskiy  
 
-![Баннер](https://github.com/user-attachments/assets/c6115ee5-c4e2-4fb1-8c7a-4cf0baa78578)
-
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Ivan Klimovskiy**, a **beginner full-stack developer** with a strong passion for web development. I currently work at a **dealership center**, but my dream is to transition fully into the IT industry. Programming has always fascinated me—it’s like the magic of unknown words that I strive to master! 🔥
