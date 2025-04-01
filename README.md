@@ -38,7 +38,8 @@ A **space-themed burger builder** where users can drag and drop ingredients, reo
 ### 🔹 [Firemoney](https://github.com/j0v4n1/firemoney)
 A full-stack app with **Express & MongoDB**, featuring **automatic access token handling**. If a token expires, it gets refreshed seamlessly, providing a smooth user experience.
 
-🔜 **Coming Soon**: A new project with a **NestJS backend**! 🚀
+### 🔹 [Kupipodariday](https://github.com/j0v4n1/kupipodariday)
+A backend API built with NestJS, TypeORM & PostgreSQL, designed for a wishlist service. It handles user authentication, gift management, and crowdfunding features, ensuring secure and efficient interactions.
 
 ## 💡 Motto
 
