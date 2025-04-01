@@ -22,6 +22,7 @@ Hi! I'm **Ivan Klimovskiy**, a **beginner full-stack developer** with a strong p
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - ![TypeORM](https://img.shields.io/badge/-TypeORM-FF5733?style=flat-square&logo=typeorm&logoColor=white)
+- ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
 
 I am confident in all these technologies **except NestJS, PostgreSQL, and TypeORM**, which I am currently learning! 📚
 
